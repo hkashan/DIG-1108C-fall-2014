@@ -1,5 +1,5 @@
-<?php 
+<?php include('header.php'); ?> 
 
-<h1>Home</h1>
+<h1>Index</h1>
 
-<?php inclu
+<?php inclulude('footer.php'>; ?>
